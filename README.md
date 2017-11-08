@@ -4,6 +4,6 @@ This is a ocean project  using Phillips spectrum to generate the waves. Some tim
 
 His project was written in C++ so it was just a matter of converting that to a C# script for Unity. I have left all the math the same but have made some changes and restructured the code a bit and the Fourier transform now runs on its own thread resulting in a big performance increase.
 
-See [home page](https://www.digital-dust.com/single-post/2017/03/17/Phillips-Ocean-in-Unity) for more information.
+See [home page](https://www.digital-dust.com/single-post/2017/03/17/Phillips-Ocean-in-Unity) for more information and unity package download.
 
 ![Phillips Ocean](https://static.wixstatic.com/media/1e04d5_07fba343a78f48c996b353a170c05be5~mv2.png/v1/fill/w_486,h_486,al_c,usm_0.66_1.00_0.01/1e04d5_07fba343a78f48c996b353a170c05be5~mv2.png)

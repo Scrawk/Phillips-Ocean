@@ -148,7 +148,6 @@ namespace PhillipsOcean
 			m_normals = new Vector3[Nplus1*Nplus1];
 			
 			m_mesh = MakeMesh(Nplus1);
-			;
 			
 			m_oceanGrid = new GameObject[m_numGridsX*m_numGridsZ];
 

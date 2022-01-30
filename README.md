@@ -9,6 +9,7 @@ His project was written in C++ so it was just a matter of converting that to a C
 
 List of water projects.
 
+[Ceto](https://github.com/Scrawk/Ceto)\
 [Phillips ocean.](https://github.com/Scrawk/Phillips-Ocean)\
 [Brunetons Ocean.](https://github.com/Scrawk/Brunetons-Ocean)\
 [Tiled-directional flow.](https://github.com/Scrawk/Tiled-Directional-Flow)\

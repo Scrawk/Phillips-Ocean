@@ -6,3 +6,10 @@ His project was written in C++ so it was just a matter of converting that to a C
 
 
 ![Phillips Ocean](./Media/Ocean.png)
+
+List of water projects.
+
+[Phillips ocean](https://github.com/Scrawk/Phillips-Ocean)
+[Bruntons Ocean](https://github.com/Scrawk/Brunetons-Ocean)
+[Tiled-direction flow](https://github.com/Scrawk/Tiled-Directional-Flow)
+[PDH Fluid sim](https://github.com/Scrawk/PBD-Fluid-in-Unity)
